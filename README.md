@@ -22,3 +22,7 @@ Clone repo, install, cd into folder and run:
 npm install
 npm run ios
 ```
+In a second terminal tab start json-server
+```git
+json-server --watch db.json --port 3004
+```
