@@ -12,9 +12,6 @@ A React Native contacts app which renders a list of json data being fetched from
 * react-navigation
 * json-server
 
-# Expo Download
-https://expo.io/@paulhanna1933/uber-ui
-
 # Start App
 Install json-server globally
 ```git
